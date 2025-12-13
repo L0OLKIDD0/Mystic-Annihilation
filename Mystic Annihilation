@@ -1,10 +1,3 @@
--- notification
-game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "Made by L0OLKIDD0";
-	Text = "SUB AND ENJOY!";
-	Icon = "rbxthumb://type=Asset&id=91918175264782&w=150&h=150"})
-Duration = 15;
-
 -- [SAFE INIT] Fix nil arithmetic error
 local rot4 = rot4 or 0
 local rot5 = rot5 or 0
