@@ -1,5 +1,4 @@
--- Script By L0OLKIDD0
-
+-- notification
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "Made by L0OLKIDD0";
 	Text = "SUB AND ENJOY!";
